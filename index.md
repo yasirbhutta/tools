@@ -8,6 +8,7 @@ Open source, free and online tools directory for students and faculty members of
 * [Web development tools](web.html)
 * [Online editors](editor.html)
 
+
 ### Educational Softwares
 
 * [FET Free Timetabling Software](https://lalescu.ro/liviu/fet/)
@@ -23,6 +24,10 @@ FET is open source free software for automatically scheduling the timetable of a
 ### Virualization and BI
 
 * Power BI Desktop(https://powerbi.microsoft.com/en-us/desktop/)Create rich, interactive reports with visual analytics at your fingertips—for free.
+
+### Networking
+
+* OpenLDAP (https://www.openldap.org/) OpenLDAP Software is an Open Source suite of directory software developed by the Internet community.
 
 
 
