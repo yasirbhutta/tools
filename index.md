@@ -27,7 +27,12 @@ FET is open source free software for automatically scheduling the timetable of a
 
 ### Networking
 
-* OpenLDAP (https://www.openldap.org/) OpenLDAP Software is an Open Source suite of directory software developed by the Internet community.
+* OpenLDAP(https://www.openldap.org/) OpenLDAP Software is an Open Source suite of directory software developed by the Internet community.
+
+### Desktop sharing
+
+* [AnyDesk: The Fast Remote Desktop Application](https://anydesk.com/en)
+* [TeamViewer: The Remote Desktop Software](https://www.teamviewer.com/en/)
 
 
 
