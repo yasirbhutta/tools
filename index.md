@@ -1,7 +1,8 @@
+# Tools for students and faculty members
 
 ## Tools
 
-Open source, free and online tools directory for students and faculty members of universities.
+Open source, free and online tools for students and faculty members of universities.
 
 ### Development Tools
 
